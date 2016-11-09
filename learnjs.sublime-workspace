@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"pro",
+				"problemNumber"
+			],
+			[
+				"probl",
+				"problem-view"
+			],
+			[
+				"pr",
+				"problem-view"
+			],
+			[
+				"vie",
+				"view-container"
+			],
+			[
+				"show",
+				"showView"
+			],
+			[
+				"le",
+				"learnjs"
+			],
+			[
+				"lern",
+				"LearnJS"
+			],
+			[
+				"view",
+				"problemView"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"one",
+				"one-half"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
 				"ren",
 				"renameStatemets"
 			],
@@ -15,6 +59,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/tests/app_spec.js",
+			"settings":
+			{
+				"buffer_size": 870,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app.js",
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -47,16 +118,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 359.0,
-		"last_filter": "pack",
+		"height": 227.0,
+		"last_filter": "insta",
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 485.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -77,10 +152,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/kirnack/Desktop/git/learnjs"
+		"/Users/kirnack/Desktop/git/learnjs",
+		"/Users/kirnack/Desktop/git/learnjs/public",
+		"/Users/kirnack/Desktop/git/learnjs/public/images",
+		"/Users/kirnack/Desktop/git/learnjs/public/tests"
 	],
 	"file_history":
 	[
+		"/Users/kirnack/Desktop/git/learnjs/public/tests/lib/jquery-2.1.4.js",
+		"/Users/kirnack/Desktop/git/learnjs/public/tests/SpecHelper.js",
+		"/Users/kirnack/Desktop/git/learnjs/learnjs.sublime-project",
+		"/Users/kirnack/Desktop/git/learnjs/public/vendor.js",
+		"/Users/kirnack/Desktop/git/learnjs/public/tests/lib/jasmine-2.3.4/jasmine.js",
+		"/Users/kirnack/Desktop/git/learnjs/services/Makefile",
 		"/Users/kirnack/Documents/server/keys/ca.crt",
 		"/Users/kirnack/Downloads/Wells Fargo Statements/renamer.rb",
 		"/Users/kirnack/Downloads/Wells Fargo Statements/require 'Date'",
@@ -91,13 +175,14 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -105,17 +190,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t",
 			"crop",
 			"472",
 			"crop",
 			"crops"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"    "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -126,8 +213,96 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/tests/app_spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
